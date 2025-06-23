@@ -30,7 +30,8 @@ while True:
         
 print("\n-----------------------------------")
 print(f"Amount to be paid is: {order_total}")
-print("--------------------------------------\nThanks for visiting US")  
+print("--------------------------------------\nThanks for visiting US")
+print("Have a Nice Day")
 
     
     
